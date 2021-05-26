@@ -11,4 +11,4 @@ Test
 |com.myntra.sample.CartResponse.CartEntryDomain|
 
 |script |cart dummy entry|
-|check|get Cart Entry|92a4d681-cd44-4ce3-93ab-408569ee7a12|
+|show|get Cart Entry|
