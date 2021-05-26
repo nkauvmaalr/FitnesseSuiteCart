@@ -2,4 +2,4 @@
 Suite
 Test: no
 ---
-[Array Fixture][.FirstWikiExample.ArrayFixture]
+[[Array Fixture][.FirstWikiExample.ArrayFixture]]
