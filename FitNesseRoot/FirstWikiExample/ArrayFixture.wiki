@@ -1,6 +1,10 @@
 ---
 Test
 ---
-!|ArrayFixture|
-|list     |get list?    |
-|[2,3,4,5]|[2, 3, 4, 5]|
+!define TEST_SYSTEM {slim}
+!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures\target\classes\com\company\Fixtures
+!|import|
+|com.company.Fixtures|
+
+|script |cart dummy entry|
+|show|get Cart Entry|
