@@ -2,10 +2,10 @@
 Test
 ---
 !define TEST_SYSTEM {slim}
-!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures\target\classes
+!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures
 
 |import|
-|com.company.Fixtures|
+|target.classes.com.company.Fixtures|
 |com.myntra.cart.domain.entry.CartEntry|
 |com.myntra.sample.CartResponse.CartEntryDomain|
 
