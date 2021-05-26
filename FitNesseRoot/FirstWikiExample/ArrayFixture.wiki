@@ -2,7 +2,7 @@
 Test
 ---
 !define TEST_SYSTEM {slim}
-!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures\target\classes
+!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures\target\classes,C:\Users\nkauv\.m2\repository\CartClasses\CartClass\1.0\CartClass-1.0.jar
 
 |import|
 |com.company.Fixtures|
