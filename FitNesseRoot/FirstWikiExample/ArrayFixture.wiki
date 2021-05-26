@@ -7,4 +7,4 @@ Test
 |com.company.Fixtures|
 
 |script |cart dummy entry|
-|ensure|get Cart Entry|92a4d681-cd44-4ce3-93ab-408569ee7a12|
+|check|get Cart Entry|92a4d681-cd44-4ce3-93ab-408569ee7a12|
