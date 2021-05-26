@@ -2,3 +2,4 @@
 Suite
 Test: no
 ---
+[Array Fixture][.FirstWikiExample.ArrayFixture]
