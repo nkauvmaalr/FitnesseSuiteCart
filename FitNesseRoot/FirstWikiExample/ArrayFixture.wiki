@@ -2,7 +2,7 @@
 Test
 ---
 !define TEST_SYSTEM {slim}
-!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures\target\classes\com\company\Fixtures
+!path C:\Users\nkauv\IdeaProjects\FitnesseFixtures\target\classes\
 !|import|
 |com.company.Fixtures|
 
