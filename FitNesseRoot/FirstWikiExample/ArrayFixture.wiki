@@ -6,6 +6,9 @@ Test
 !path C:\Users\nkauv\.m2\repository\CartClasses\CartClass\1.0\CartClass-1.0.jar
 
 |import|
+
+
+
 |com.company.Fixtures|
 |com.myntra.cart.domain.entry.CartEntry|
 |com.myntra.sample.CartResponse.CartEntryDomain|
