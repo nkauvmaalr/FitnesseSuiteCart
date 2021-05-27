@@ -46,14 +46,12 @@
                                 <phase>test</phase>
                                 <configuration>
                                     <target>
-
                                         <echo taskname="fitnesse" message="Starting FitNesse…" />
                                         <java classname="fitnesseMain.FitNesseMain" classpathref="maven.runtime.classpath" fork="true">
                                             <arg line="-p 8081" />
                                             <arg line="-d ." />
                                         </java>
                                     </target>
-
                                 </configuration>
                                 <goals>
                                     <goal>run</goal>
