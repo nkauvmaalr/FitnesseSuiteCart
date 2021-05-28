@@ -13,4 +13,4 @@ Test
 |com.myntra.sample.CartResponse|
 
 |script |Dummy  cart items|
-|check |get cart id |92a4d681-cd44-4ce3-93ab-408569ee7a12 |
+|show|get cart id |
