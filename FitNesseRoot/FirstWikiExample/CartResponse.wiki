@@ -8,8 +8,8 @@ Test
 
 
 |import|
-|com.myntra.cart|
 |com.company.Fixtures|
+|com.myntra.cart.domain.entry.CartEntry|
 |com.myntra.sample.CartResponse.CartEntryDomain|
 
 |script |Dummy  cart items|
