@@ -10,3 +10,5 @@ Test
 |import|
 |com.myntra.cart|
 |com.company.Fixtures|
+
+|script |Dummy cart|
