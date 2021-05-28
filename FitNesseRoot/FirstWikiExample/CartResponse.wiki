@@ -7,6 +7,9 @@ Test
 !path /home/nk/IdeaProjects/FitNesseFixture/target/classes/
 
 
+|import|
+|com.company.Fixtures|
+
 
 |script |Dummy Cart Items |
 |check| get cart id |92a4d681-cd44-4ce3-93ab-408569ee7a12|
