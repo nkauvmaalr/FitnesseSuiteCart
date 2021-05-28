@@ -1,3 +1,15 @@
 ---
 Test
 ---
+!define TEST_SYSTEM {slim} 
+
+!path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/
+!path /home/nk/IdeaProjects/FitNesseFixture/target/classes/
+
+
+|import|
+|com.myntra.cart|
+|com.company.Fixtures|
+|com.myntra.sample.CartResponse.CartEntryDomain|
+
+|script |Dummy  cart items|
