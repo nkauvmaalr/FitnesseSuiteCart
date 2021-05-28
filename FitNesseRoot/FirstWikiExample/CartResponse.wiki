@@ -11,4 +11,4 @@ Test
 |cart.domain.entry|
 |sample.CartResponse|
 
-|script |CartEntryDomain|
+|script |Cart Entry Domain|
