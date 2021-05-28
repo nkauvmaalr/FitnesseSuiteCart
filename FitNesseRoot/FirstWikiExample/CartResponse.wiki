@@ -9,7 +9,7 @@ Test
 
 |import|
 |com.company.Fixtures|
-|com.myntra.cart.domain.entry.CartEntry|
-|com.myntra.sample.CartResponse.CartEntryDomain|
+|com.myntra.cart.domain.entry|
+|com.myntra.sample.CartResponse|
 
 |script |Dummy  cart items|
