@@ -6,8 +6,6 @@ Test
 !path /home/nk/Downloads/cartEntryDomain-1.0-SNAPSHOT-jar-with-dependencies.jar
 !path /home/nk/IdeaProjects/FitNesseFixture/target/classes/
 
-|import|
-|com.company.Fixtures|
 
 
 |script |Dummy Cart Items |
