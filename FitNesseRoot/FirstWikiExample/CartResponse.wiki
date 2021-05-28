@@ -8,5 +8,5 @@ Test
 
 
 |import|
-|fitnesse.slim.test|
-|fitnesse.fixtures|
+|com.myntra.cart|
+|com.company.Fixtures|
