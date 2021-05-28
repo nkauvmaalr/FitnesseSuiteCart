@@ -3,14 +3,14 @@ Test
 ---
 !define TEST_SYSTEM {slim} 
 
-!path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/
+!path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/com/myntra
 !path /home/nk/IdeaProjects/FitNesseFixture/target/classes/
 
 
 |import|
 |com.company.Fixtures|
-|com.myntra.cart.domain.entry|
-|com.myntra.sample.CartResponse|
+|cart.domain.entry|
+|sample.CartResponse|
 
 |script |Dummy  cart items|
 |show|get cart id |
