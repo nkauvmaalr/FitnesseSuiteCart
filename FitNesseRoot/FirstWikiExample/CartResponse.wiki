@@ -12,4 +12,4 @@ Test
 |com.company.Fixtures|
 |com.myntra.sample.CartResponse|
 
-|script | cart Dummy items|
+|script |Dummy  cart items|
