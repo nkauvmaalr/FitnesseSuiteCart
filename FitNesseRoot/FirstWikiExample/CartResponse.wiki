@@ -13,3 +13,5 @@ Test
 |com.myntra.sample.CartResponse|
 
 |script |Dummy  cart items|
+|setDomain|
+|check |get cart id |92a4d681-cd44-4ce3-93ab-408569ee7a12 |
