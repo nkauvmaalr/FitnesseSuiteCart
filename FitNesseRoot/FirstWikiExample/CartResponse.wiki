@@ -14,4 +14,4 @@ Test
 |script |Dummy Cart Items |
 |check| get cart id |92a4d681-cd44-4ce3-93ab-408569ee7a12|
 |check| get cart uidx |7d1e08e3.05b3.45b1.8512.9a868153568fsVw5TWbNId|
-|not check| get cart count |2|
+|check not| get cart count |2|
