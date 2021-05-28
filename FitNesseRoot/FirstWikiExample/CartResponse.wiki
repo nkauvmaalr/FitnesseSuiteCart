@@ -5,6 +5,7 @@ Test
 
 !path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/com/myntra/
 
+|import|
 |cart.domain.entry|
 |sample.CartResponse|
 
