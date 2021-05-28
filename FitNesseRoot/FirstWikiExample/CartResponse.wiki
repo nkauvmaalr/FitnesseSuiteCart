@@ -11,5 +11,4 @@ Test
 |cart.domain.entry|
 |sample.CartResponse|
 
-|script |Dummy  cart items|
-|show|get cart id |
+|script |CartEntryDomain|
