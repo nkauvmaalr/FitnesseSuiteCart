@@ -3,10 +3,10 @@ Test
 ---
 !define TEST_SYSTEM {slim} 
 
-!path /home/nk/IdeaProjects/FitNesseFixture/target/classes
+!path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/
 
 |import|
-|com.company.Fixtures|
+|com.myntra.sample.CartResponse|
 
-|script |dummy cart items |
-|ensure | check number |4|
+
+|script |Cart Entry Domain |
