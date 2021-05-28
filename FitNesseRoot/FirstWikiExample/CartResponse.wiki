@@ -6,7 +6,7 @@ Test
 !path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/
 
 |import|
-|com.myntra.cart.domain.entry|
+|myntra.cart.domain.entry|
 |com.myntra.sample.CartResponse|
 
 |script |cart entry |
