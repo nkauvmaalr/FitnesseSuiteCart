@@ -9,3 +9,4 @@ Test
 |com.company.Fixtures|
 
 |script |dummy cart items |
+|ensure | check number |4|
