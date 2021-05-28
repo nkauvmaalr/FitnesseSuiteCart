@@ -11,4 +11,4 @@ Test
 |com.myntra.cart|
 |com.company.Fixtures|
 
-|script |Dummy cart|
+|script |Dummy cart items|
