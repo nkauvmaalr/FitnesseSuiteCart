@@ -6,6 +6,7 @@ Test
 !path /home/nk/.m2/repository/CartClasses/CartClass/1.0/CartClass-1.0.jar!/
 !path /home/nk/IdeaProjects/FitNesseFixture/target/classes/com/company/Fixtures/
 
-!|import|
-|com.company.Fixtures|
-|com.myntra.Cart|
+!*> setup
+|import|
+|fitnesse.slim.test|
+|fitnesse.fixtures|
