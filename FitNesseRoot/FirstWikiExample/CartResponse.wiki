@@ -9,4 +9,4 @@ Test
 |cart.domain.entry|
 |sample.CartResponse|
 
-|script |Cart Entry Domain|
+|script |cart entry domain|
